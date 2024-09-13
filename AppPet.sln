@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppPet", "AppPet\AppPet.csproj", "{846A1C77-9321-478F-B3FE-05F881D3C8A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppPet.AspireHost", "AppPet.AspireHost\AppPet.AspireHost.csproj", "{846A1C77-9321-478F-B3FE-05F881D3C8A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
